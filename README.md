@@ -1,7 +1,7 @@
 # Moonlight-Protein-Prediction
 A systematic investigation into the impact of protein sequence representations and model architectures on the prediction of moonlighting proteins (MPs).
 
-## * 📖 Abstract *
+## *📖 Abstract*
 This repository contains the code and analysis for a study on the prediction of MPs. We conducted a systematic investigation into how different protein sequence representations—ranging from TF-IDF k-mers and curated biological features to advanced ESM embeddings—affect predictive performance. These representations were evaluated across a spectrum of machine learning architectures, from baseline classifiers (like Random Forest and Logistic Regression) to deep learning models like Multilayer Perceptrons (MLP) and Siamese Neural Networks (SNN). Our central finding is that the choice of representation plays a more pivotal role in predictive performance and generalization than model complexity alone, providing a guiding principle for future research in this domain.
 
 ```
